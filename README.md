@@ -1,8 +1,8 @@
 # LifeNote
 
-### Multi-User Personal Knowledge Management System with Intelligent Version Control
+### Multi-User Personal Notes Management System with Intelligent Version Control
 
-LifeNote is a secure, multi-user note-taking platform designed for individuals who want complete control over the evolution of their personal knowledge base. By combining modern web engineering with robust cryptographic validation and version control principles, LifeNote guarantees that your notes are securely isolated and version-tracked forever.
+LifeNote is a secure, multi-user note-taking platform designed for individuals who want complete control over the evolution of their personal knowledge base. By combining modern web engineering with version control principles, LifeNote guarantees that your notes are securely isolated and version-tracked forever.
 
 ---
 
