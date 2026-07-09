@@ -1,0 +1,16 @@
+# Sandbox Agent Context & Task logs
+.agents/
+
+# IntelliJ IDEA Project Configuration
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Frontend Node Modules & Production Builds
+/lifeNote frontend/node_modules/
+/lifeNote frontend/dist/
+/lifeNote frontend/*.log
+/lifeNote frontend/*.err
