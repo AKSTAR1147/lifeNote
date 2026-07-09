@@ -76,16 +76,13 @@ lifeNote Project/
 │       │   └── user/          # User Profiles & RBAC
 │       └── pom.xml            # Maven Configuration
 │
-├── lifeNote frontend/
-│   ├── src/
-│   │   ├── App.jsx            # Main Workspace Controller
-│   │   ├── api.js             # Fetch Wrapper with JWT header mappings
-│   │   ├── main.jsx           # Diagnostic ErrorBoundary & React entry point
-│   │   └── styles.css         # Glassmorphic Design Variables & Styles
-│   └── package.json
-│
-└── docs/
-    └── images/                # Preview Screenshots
+└── lifeNote frontend/
+    ├── src/
+    │   ├── App.jsx            # Main Workspace Controller
+    │   ├── api.js             # Fetch Wrapper with JWT header mappings
+    │   ├── main.jsx           # Diagnostic ErrorBoundary & React entry point
+    │   └── styles.css         # Glassmorphic Design Variables & Styles
+    └── package.json
 ```
 
 ---
