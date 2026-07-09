@@ -22,6 +22,10 @@ The system tracks every content modification as an immutable version snapshot, a
 ![Timeline Restore v2](docs/images/restore_v2.png)
 ![Timeline Restore v3](docs/images/restore_v3.png)
 
+### Version Diff Comparison
+You can compare any two snapshots side-by-side using the comparator selection dropdowns in the timeline panel, which renders dynamic line additions, deletions, and modifications.
+![Version Diff Comparison](docs/images/diff.png)
+
 ---
 
 ## ⚡ Core Features
